@@ -6,10 +6,16 @@
 
 > 13:00-13:00
 
-## study
+## Study
+
+### Front End
 
 > vue.js
 
 > vue-router
 
 > vuex
+
+### Back End
+
+> mysql
